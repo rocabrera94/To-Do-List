@@ -1,0 +1,25 @@
+ [{
+   "id": 1,
+   "task":"take a bath",
+   "complete": true
+},
+{
+    "id": 2,
+   "task":"take out the trash",
+   "complete": true
+},
+{
+    "id": 3,
+   "task":"clean the kitchen",
+   "complete": false
+},
+{
+    "id": 4,
+   "task":"cut the grass",
+   "complete": true
+},
+{
+    "id": 5,
+   "task":"do excercise",
+   "complete": false
+}]
